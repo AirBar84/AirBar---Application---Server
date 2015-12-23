@@ -1,0 +1,5 @@
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.Authorization\bin\Debug\AirBar.Platform.WebApplication.Authorization.dll
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.Authorization\bin\Debug\AirBar.Platform.WebApplication.Authorization.pdb
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.Authorization\obj\Debug\AirBar.Platform.WebApplication.Authorization.csprojResolveAssemblyReference.cache
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.Authorization\obj\Debug\AirBar.Platform.WebApplication.Authorization.dll
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.Authorization\obj\Debug\AirBar.Platform.WebApplication.Authorization.pdb

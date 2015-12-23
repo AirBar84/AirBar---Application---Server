@@ -1,0 +1,5 @@
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.DataStore\bin\Debug\AirBar.Platform.WebApplication.DataStore.dll
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.DataStore\bin\Debug\AirBar.Platform.WebApplication.DataStore.pdb
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.DataStore\obj\Debug\AirBar.Platform.WebApplication.DataStore.csprojResolveAssemblyReference.cache
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.DataStore\obj\Debug\AirBar.Platform.WebApplication.DataStore.dll
+C:\Workspace\AirBar\Projects\AirBar---Application---Server\AirBar.Platform.WebApplication.DataStore\obj\Debug\AirBar.Platform.WebApplication.DataStore.pdb
